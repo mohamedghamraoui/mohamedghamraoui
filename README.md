@@ -2,15 +2,15 @@
  
 <p align="center">
   <b>Technicien Réseaux & Télécoms · Développeur Full-Stack</b><br/>
-  <i>Intelcia Tech — Maroc 🇲🇦</i>
+  <i>Intelcia Tech — Maroc</i>
 </p>
  
 <p align="center">
-  <a href="mailto:mghamraoui4@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-mghamraoui4%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:mohamed.ghamraoui@intelcia.com">
+    <img src="https://img.shields.io/badge/Gmail-mohamed.ghamraoui4%40intelcia.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/mghamraoui4">
-    <img src="https://img.shields.io/badge/GitHub-mghamraoui4-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/mohamedghamraoui">
+    <img src="https://img.shields.io/badge/GitHub-mohamedghamraoui-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
  
@@ -25,7 +25,7 @@ En parallèle de mon métier terrain, je conçois et déploie des applications w
 - 🛠️ Je construis des outils internes qui font **vraiment** gagner du temps
 - 📡 Mon quotidien : réseaux FTTH, supervision, coordination d'interventions
 - 💡 Ma passion : transformer des processus manuels en solutions automatisées
-- 📬 Me contacter : [mghamraoui4@gmail.com](mailto:mghamraoui4@gmail.com)
+- 📬 Me contacter : [mohamed.ghamraoui@intelcia.com](mailto:mohamed.ghamraoui@intelcia.com)
  
 ---
  
