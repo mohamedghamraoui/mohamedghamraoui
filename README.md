@@ -7,7 +7,7 @@
  
 <p align="center">
   <a href="mailto:mohamed.ghamraoui@intelcia.com">
-    <img src="https://img.shields.io/badge/Gmail-mohamed.ghamraoui4%40intelcia.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-mohamed.ghamraoui%40intelcia.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/mohamedghamraoui">
     <img src="https://img.shields.io/badge/GitHub-mohamedghamraoui-181717?style=for-the-badge&logo=github&logoColor=white" />
